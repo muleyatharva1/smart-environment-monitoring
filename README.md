@@ -31,12 +31,12 @@ The Smart Environmental Monitoring System is developed to measure and report key
    - Import the generated code into your IDE.
    - Implement sensor reading and data processing in the main.c file.
 
-## **Usage*
+## **Usage**
 * upload the code to your STM32F401RE.
 * Open the Serial Monitor to view the sensor readings.
 * Use the sensor data for your specific applications.
 
-## **Acknowledgements*
+## **Acknowledgements**
 * Thanks to the creators of STM32CubeMX and HAL libraries for providing the tools needed to simplify development
    
    
